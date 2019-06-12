@@ -1,0 +1,4 @@
+﻿info needed:
+name total points  cave name  total gold  unused arrow/s
+bob / 300 points / fire cave / 20 gold  / 4 arrows left  <-- example 
+
